@@ -1,0 +1,10 @@
+fun main() {
+    var width = 5
+    var height = 5
+    var area = width * height
+    print(area)
+}   
+/**
+ * Only thing that seemed wrong was the symbol, there was a plus sign insted of a multiplication sign between width and height, which was giving the 
+ * perimeter instead of the area 
+ */
