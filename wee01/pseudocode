@@ -1,0 +1,40 @@
+//Part 1
+display " Enter first number"
+display " Enter second number"
+multiply firstnumber * second number
+display result
+//
+
+//Part 2
+display " Enter number"
+if number not 5 or 6 display "number entered is neither 5 or 6"
+///
+
+//Part 3
+display " Enter number"
+if between 0 and 10
+display " blue"
+if between 10 and 20
+display "red" 
+if between 20 and 30 
+display "green"
+if number not between 0 and 30 
+display " incorrect color option"
+
+//Part 4
+print ( multiples of 5 between 1 and 100 are)
+a * 5 <= 100
+a=a+1
+print a*5
+//
+
+//Part 5
+Print( enter even number)
+check if number even
+if not even print (" please choose another number")
+if yes proceed
+add all even numbers up to user number
+Print(total of even numbers)
+
+
+
