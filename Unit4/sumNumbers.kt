@@ -1,9 +1,8 @@
 fun main() {
-    var sum = 0 // initialize sum variable to zero
+    var sum = 0 
     print("Enter a positive nonzero integer: ")
-    val n = readLine()!!.toInt() // read user input and convert to integer
+    val n = readLine()!!.toInt() 
     
-    // loop through all numbers from 1 to n and add to sum
     for (i in 1..n) {
         sum += i
     }
