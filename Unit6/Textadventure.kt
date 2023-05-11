@@ -45,7 +45,7 @@ fun main() {
             }
             "kitchen" -> {
                 println("You are in the kitchen. It looks like a roast is being made for supper.")
-                println("A hallway is to the east.")
+                println("A hallway is to the west.")
                 print("What direction? ")
                 val direction = readLine()?.trim()?.toLowerCase()
                 if (direction == "e") {
